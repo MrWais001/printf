@@ -476,9 +476,7 @@ Output:
 
 ## Authors :black_nib:
 
-* Brennan D Baraban <[bdbaraban](https://github.com/bdbaraban)>
-* Michael Klein <[mKleinCreative](https://github.com/mKleinCreative)>
-
+* Abdulgafar Ridwan
 ## License :lock:
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
